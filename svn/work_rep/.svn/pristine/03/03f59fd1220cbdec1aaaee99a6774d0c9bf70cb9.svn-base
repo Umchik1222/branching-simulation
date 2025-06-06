@@ -1,0 +1,22 @@
+public class D implements K {
+
+    private byte e = 1;
+
+    private String d = "hello";
+
+    public double ee() {
+        return 100.500;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public String kk() {
+        return "No";
+    }
+
+    public byte oo() {
+        return 1;
+    }
+}

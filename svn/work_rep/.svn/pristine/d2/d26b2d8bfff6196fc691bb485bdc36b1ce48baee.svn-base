@@ -1,0 +1,14 @@
+public class I {
+
+    private double k = 100.500;
+
+    private double i = 100.500;
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public float ff() {
+        return 0;
+    }
+}
